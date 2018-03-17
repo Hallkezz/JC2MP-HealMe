@@ -9,4 +9,4 @@ It's strange that nobody has yet laid out this rather useful and simple creaking
 
 __Pleasant use! :)__
 
-[Forum in jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6085.0.html)
+[Post to the forum jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6085.0.html)
