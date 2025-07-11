@@ -2,4 +2,4 @@
 This module adds the ability to heal.
 
 **How to use:**
-* Type ***/heal*** to heal yourself.
+* Use ***/heal*** command to heal yourself.
